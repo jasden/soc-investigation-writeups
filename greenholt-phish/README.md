@@ -112,7 +112,7 @@ The filename is deliberately misleading — the string `____PDF____` is embedded
 
 The attachment was saved to the virtual environment for hash analysis.
 
-![Saving the attachment](screenshots/07-saving-attachment.png)
+
 
 ---
 

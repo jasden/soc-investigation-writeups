@@ -28,8 +28,6 @@ The `phish-emails` folder on the desktop contained 5 email files — 4 Group Mar
 
 ![Phish emails folder contents](screenshots/01-phish-emails-folder.png)
 
-![Quote for Services Rendered email selected](screenshots/02-quote-email-selected.png)
-
 Opening the Quote for Services Rendered email revealed the first key details:
 
 ![Quote for Services Rendered email open in Thunderbird](screenshots/03-email-open.png)

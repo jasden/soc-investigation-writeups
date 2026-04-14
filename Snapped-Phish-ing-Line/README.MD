@@ -261,4 +261,4 @@ The `Created BY Real Carder` string embedded in the kit log is an OPSEC failure 
 
 ---
 
-*Write-up by Jasden Singh | [LinkedIn](https://linkedin.com/in/jasdensingh) | [GitHub](https://github.com/jasdensingh)*
+*Write-up by Jasden Singh | [LinkedIn](https://www.linkedin.com/in/jasden-singh-8425b3268/) | [GitHub](https://github.com/jasden)*

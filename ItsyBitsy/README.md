@@ -185,4 +185,4 @@ The sequence of a HEAD request followed immediately by a GET request to the same
 
 ---
 
-*Write-up by Jasden Singh | [LinkedIn](https://linkedin.com/in/jasdensingh) | [GitHub](https://github.com/jasdensingh)*
+*Write-up by Jasden Singh | [LinkedIn](https://www.linkedin.com/in/jasden-singh-8425b3268/) | [GitHub] (https://github.com/jasden)*
